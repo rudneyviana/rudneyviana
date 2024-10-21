@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**rudneyviana/rudneyviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Rudney**, estudante de tecnologia com uma paixão por desenvolvimento de software, programação e redes de computadores. Atualmente, estou aprimorando minhas habilidades em:
 
-Here are some ideas to get you started:
+- 💻 **Desenvolvimento Web**: JavaScript, HTML, CSS.
+- 🌐 **Redes**: Estudando redes de computadores e segurança.
+- 📈 **UX Strategy**: Explorando técnicas de melhoria da experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+
+- 📰 **[Newsquill](https://newsquill.netlify.app/)**: Um site simples de notícias desenvolvido com foco em Design.
+- 🍕 **[Quinta da Oliva](https://github.com/rudneyviana/redesign-pizzaria)**: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.
+
+## Sobre
+- 💼 **Ocupação**: Jovem aprendiz em Infraestrutura de TI.
+- 🎓 **Estudos**: Técnico em Desenvolvimento de Sistemas.
+
+Sempre em busca de aprender, colaborar e crescer! 🚀
