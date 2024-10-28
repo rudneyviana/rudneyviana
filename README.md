@@ -9,7 +9,7 @@ Sou **Rudney**, estudante de tecnologia com uma paixão por desenvolvimento de s
 ## Projetos em Destaque
 
 - 📰 **[Newsquill](https://newsquill.netlify.app/)**: Um site simples de notícias desenvolvido com foco em Design.
-- 🍕 **[Quinta da Oliva](https://github.com/rudneyviana/redesign-pizzaria)**: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.
+- 🍕 **[Quinta da Oliva](https://rudneyviana.github.io/redesign-pizzaria)**: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.
 
 ## Sobre
 - 💼 **Ocupação**: Jovem aprendiz em Infraestrutura de TI.
