@@ -13,15 +13,8 @@
 <h4>Projetos em Destaque</h4>
 
 <ul>
-  <li>📰 <strong><a href="https://newsquill.netlify.app/">Newsquill</a></strong>: Um site simples de notícias desenvolvido com foco em Design.</li>
-  <li>🍕 <strong><a href="https://rudneyviana.github.io/redesign-pizzaria">Quinta da Oliva</a></strong>: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.</li>
-</ul>
-
-<h4>Sobre</h4>
-
-<ul>
-  <li>💼 <strong>Ocupação</strong>: Jovem aprendiz em Infraestrutura de TI.</li>
-  <li>🎓 <strong>Estudos</strong>: Técnico em Desenvolvimento de Sistemas.</li>
+  <li>📰 <strong><a href="https://newsquill.netlify.app/">Newsquill</a></strong>: Site de notícias desenvolvido com foco em Design.</li>
+  <li>🍕 <strong><a href="https://rudneyviana.github.io/redesign-pizzaria">Quinta da Oliva</a></strong>: Site de pizzaria desenvolvido com foco em boas práticas de UX.</li>
 </ul>
 
 <p>Sempre em busca de aprender, colaborar e crescer! 🚀</p>
