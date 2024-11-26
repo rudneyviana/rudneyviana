@@ -6,7 +6,7 @@
 
 <ul>
   <li>💻 <strong>Desenvolvimento Web</strong>: JavaScript, HTML, CSS.</li>
-  <li>🌐 <strong>Redes</strong>: Estudando redes de computadores e segurança.</li>
+  <li>🎨 <strong>Design de Interfaces</strong>: Aprimorando habilidades em criação de layouts e prototipagem no Figma.</li>
   <li>📈 <strong>UX Strategy</strong>: Explorando técnicas de melhoria da experiência do usuário.</li>
 </ul>
 
