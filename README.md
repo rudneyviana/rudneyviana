@@ -22,7 +22,7 @@ Sempre em busca de aprender, colaborar e crescer! 🚀
 
 </div>
 
-<div style="width: 100%;">
+<div style="width: 40%;">
 <img src="./ilustracao.png" style="width: 100%;">
 </div>
 
