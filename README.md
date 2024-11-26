@@ -1,5 +1,4 @@
-<div style="display: flex; align-items: top;">
-<div>
+<img align="right" src="https://github.com/rudneyviana/rudneyviana/blob/master/ilustracao.png" width="300"/>
 
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
@@ -19,11 +18,3 @@ Sou **Rudney**, estudante de tecnologia com uma paixão por desenvolvimento de s
 - 🎓 **Estudos**: Técnico em Desenvolvimento de Sistemas.
 
 Sempre em busca de aprender, colaborar e crescer! 🚀
-
-</div>
-
-<div style="width: 40%;">
-<img src="./ilustracao.png" style="width: 100%;">
-</div>
-
-</div>
