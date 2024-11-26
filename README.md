@@ -1,20 +1,27 @@
 <img align="right" src="./ilustracao.png" width="300"/>
 
-# Olá! 👋 Bem-vindo ao meu perfil no GitHub!
+<h1>Olá! 👋 Bem-vindo ao meu perfil no GitHub!</h1>
 
-Sou **Rudney**, estudante de tecnologia com uma paixão por desenvolvimento de software, programação e redes de computadores. Atualmente, estou aprimorando minhas habilidades em:
+<p>Sou <strong>Rudney</strong>, estudante de tecnologia com uma paixão por desenvolvimento de software, programação e redes de computadores. Atualmente, estou aprimorando minhas habilidades em:</p>
 
-- 💻 **Desenvolvimento Web**: JavaScript, HTML, CSS.
-- 🌐 **Redes**: Estudando redes de computadores e segurança.
-- 📈 **UX Strategy**: Explorando técnicas de melhoria da experiência do usuário.
+<ul>
+<li>💻 <strong>Desenvolvimento Web</strong>: JavaScript, HTML, CSS.</li>
+<li>🌐 <strong>Redes</strong>: Estudando redes de computadores e segurança.</li>
+<li>📈 <strong>UX Strategy</strong>: Explorando técnicas de melhoria da experiência do usuário.</li>
+</ul>
 
-## Projetos em Destaque
+<h2>Projetos em Destaque</h2>
 
-- 📰 **[Newsquill](https://newsquill.netlify.app/)**: Um site simples de notícias desenvolvido com foco em Design.
-- 🍕 **[Quinta da Oliva](https://rudneyviana.github.io/redesign-pizzaria)**: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.
+<ul>
+<li>📰 <strong><a href="https://newsquill.netlify.app/">Newsquill</a></strong>: Um site simples de notícias desenvolvido com foco em Design.</li>
+<li>🍕 <strong><a href="https://rudneyviana.github.io/redesign-pizzaria">Quinta da Oliva</a></strong>: Um site simples de pizzaria desenvolvido com foco em boas práticas de UX.</li>
+</ul>
 
-## Sobre
-- 💼 **Ocupação**: Jovem aprendiz em Infraestrutura de TI.
-- 🎓 **Estudos**: Técnico em Desenvolvimento de Sistemas.
+<h2>Sobre</h2>
 
-Sempre em busca de aprender, colaborar e crescer! 🚀
+<ul>
+<li>💼 <strong>Ocupação</strong>: Jovem aprendiz em Infraestrutura de TI.</li>
+<li>🎓 <strong>Estudos</strong>: Técnico em Desenvolvimento de Sistemas.</li>
+</ul>
+
+<p>Sempre em busca de aprender, colaborar e crescer! 🚀</p>
