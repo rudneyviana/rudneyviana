@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rudneyviana/rudneyviana/blob/master/ilustracao.png" width="300"/>
+<img align="right" src="https://github.com/rudneyviana/rudneyviana/ilustracao.png" width="300"/>
 
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub!
 
