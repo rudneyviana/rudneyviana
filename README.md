@@ -1,6 +1,6 @@
 <img align="right" src="./ilustracao.png" width="350"/>
 
-<p style="font-size: 32px;">Olá, eu sou Rudney 👋</p>
+<h3>Olá, eu sou Rudney 👋</h3>
 
 <p>Estudante de tecnologia com uma paixão por desenvolvimento de software e programação. Atualmente, estou aprimorando minhas habilidades em:</p>
 
