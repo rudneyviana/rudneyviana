@@ -7,14 +7,14 @@
 <ul>
   <li>💻 <strong>Desenvolvimento Web</strong>: JavaScript, HTML, CSS.</li>
   <li>🎨 <strong>Design de Interfaces</strong>: Aprimorando habilidades em criação de layouts e prototipagem no Figma.</li>
-  <li>📈 <strong>UX Strategy</strong>: Explorando técnicas de melhoria da experiência do usuário.</li>
+  <li>🗃️ <strong>Modelagem de Dados</strong>: Estudando conceitos de organização e estruturação de Banco de Dados.</li>
 </ul>
 
 <h4>Projetos em Destaque</h4>
 
 <ul>
   <li>📰 <strong><a href="https://newsquill.netlify.app/">Newsquill</a></strong>: Site de notícias desenvolvido com foco em Design.</li>
-  <li>🍕 <strong><a href="https://rudneyviana.github.io/redesign-pizzaria">Quinta da Oliva</a></strong>: Site de pizzaria desenvolvido com foco em boas práticas de UX.</li>
+  <li>🍕 <strong><a href="https://rudneyviana.github.io/redesign-pizzaria">Quinta da Oliva</a></strong>: Site de pizzaria desenvolvido com foco em UX.</li>
 </ul>
 
 <p>Sempre em busca de aprender, colaborar e crescer! 🚀</p>
